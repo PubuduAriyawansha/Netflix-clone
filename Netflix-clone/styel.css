@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: rgb(24, 23, 23);
+    color: white;
+    font-family:'netflix',sans-serif;
+    
+}
+@font-face {
+    font-family: 'netflix';
+    src: url(/fonts/) format('woff2') ;
+}
