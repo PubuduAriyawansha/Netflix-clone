@@ -4,12 +4,12 @@
 
 **Disclaimer**: This project is not affiliated with, endorsed, or sponsored by Netflix. It is purely a learning and educational exercise.
 
-![Netflix Clone](resources/homepage.png)
-![Netflix Clone](resources/page1.png)
-![Netflix Clone](resources/page3.png)
-![Netflix Clone](resources/page4.png)
-![Netflix Clone](resources/finalpage.png)
-![Netflix Clone](resources/footer.png)
+![Netflix Clone](resources/Screenshots/homepage.png)
+![Netflix Clone](resources/Screenshots/page1.png)
+![Netflix Clone](resources/Screenshots/page3.png)
+![Netflix Clone](resources/Screenshots/page4.png)
+![Netflix Clone](resources/Screenshots/finalpage.png)
+![Netflix Clone](resources/Screenshots/footer.png)
 
 
 ## Table of Contents
